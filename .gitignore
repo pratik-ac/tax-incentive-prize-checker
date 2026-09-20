@@ -33,3 +33,7 @@ captures/
 # OS files
 .DS_Store
 Thumbs.db
+
+# Android build output
+Mobile/app/release/
+Mobile/app/build/
