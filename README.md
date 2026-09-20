@@ -33,7 +33,7 @@ Download the APK from release section and install it on your Android device.
 This app is an independent project and is not affiliated with or endorsed by any digital payment platform or the Inland Revenue Department of Nepal.
 
 Prize information is retrieved from publicly available IRD data. Always verify prize information through the official IRD source.
-<img width="2107" height="2114" alt="image" src="https://github.com/user-attachments/assets/760ccc9c-91b5-45d2-b582-31e731146828" />
+
 
 
 
