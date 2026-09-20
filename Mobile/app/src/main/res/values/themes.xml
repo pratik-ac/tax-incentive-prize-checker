@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- Normal app theme -->
+    <style name="Theme.TaxPrizeChecker" parent="android:style/Theme.Material.Light.NoActionBar">
+        <item name="android:fontFamily">sans</item>
+        <item name="android:windowActionModeOverlay">true</item>
+        <item name="android:colorAccent">#35D0A0</item>
+        <item name="android:navigationBarColor">#07110F</item>
+        <item name="android:statusBarColor">#07110F</item>
+        <item name="android:windowLightStatusBar">false</item>
+    </style>
+
+    <!-- Splash theme -->
+    <style name="Theme.TaxPrizeChecker.Splash" parent="Theme.SplashScreen">
+        <item name="windowSplashScreenBackground">#07110F</item>
+        <item name="windowSplashScreenAnimatedIcon">@drawable/prize_icon</item>
+        <item name="postSplashScreenTheme">@style/Theme.TaxPrizeChecker</item>
+    </style>
+
+</resources>

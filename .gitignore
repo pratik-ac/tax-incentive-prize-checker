@@ -1,0 +1,35 @@
+# Python
+.venv/
+check_ird.py
+
+# Key
+Key
+
+# Gradle
+.gradle/
+build/
+**/build/
+
+# Android Studio
+.idea/
+*.iml
+
+# Local configuration
+local.properties
+
+# Signing files
+*.jks
+*.keystore
+
+# APK / App Bundle
+*.apk
+*.aab
+
+# Generated files
+captures/
+.externalNativeBuild/
+.cxx/
+
+# OS files
+.DS_Store
+Thumbs.db
